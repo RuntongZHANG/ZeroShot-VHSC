@@ -1,2 +1,2 @@
-# ZeroShot-VHSC
-[NEUCOM 2024] Official implement of &lt;Advancing Zero-Shot Semantic Segmentation through Attribute Correlations>
+# [NEUCOM 2024] Advancing Zero-Shot Semantic Segmentation through Attribute Correlations
+The code and dataset are coming soon.
