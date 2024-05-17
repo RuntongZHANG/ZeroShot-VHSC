@@ -15,7 +15,7 @@ We advance the zero-shot semantic segmentation through attribute correlations. S
 * GPU == NVIDIA Titan XP
 
 
-## DataSets
+## Dataset
 Visual Hierarchical Semantic Classes (VHSC) benchmark.
 ![Dataset](figures/dataset.png)
 Link: (Coming soon)
