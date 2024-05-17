@@ -4,7 +4,7 @@
 
 ## Abstract
 We advance the zero-shot semantic segmentation through attribute correlations. Specifically, we propose a hierarchical semantic segmentation framework incorporating an attribute prompt tuning method. Correspondingly, we construct a Visual Hierarchical Semantic Classes (VHSC) benchmark, meticulously annotating shared-attributes at the pixel level to conduct the experiments. Extensive experiments on the VHSC benchmark showcase the superior performance of our method compared to existing zero-shot semantic segmentation methods, achieving mIoU of 73.0\% and FBIoU of 87.5\%. <br />
-![Overview](figures/framework.png)
+![Overview](figures/overview.png)
 
 ## Requirements
 
@@ -17,6 +17,7 @@ We advance the zero-shot semantic segmentation through attribute correlations. S
 
 ## DataSets
 Visual Hierarchical Semantic Classes (VHSC) benchmark.
+![Dataset](figures/dataset.png)
 Link: (Coming soon)
 
 ## Training
