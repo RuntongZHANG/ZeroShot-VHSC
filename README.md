@@ -20,6 +20,9 @@ Visual Hierarchical Semantic Classes (VHSC) benchmark.
 ![Dataset](figures/dataset.png)
 Link: (Coming soon)
 
+## Checkpoints
+Link: (Coming soon)
+
 ## Training
 ```
 python train.py configs/vhsc/vpt_seg_attr20_bg_AttrPrompt_vit-b_512x512.py
