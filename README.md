@@ -26,7 +26,7 @@ python train.py configs/vhsc/vpt_seg_attr20_bg_AttrPrompt_vit-b_512x512.py
 ```
 ## Evaluation
 ```
-python test.py configs/vhsc/vpt_seg_attr20_bg_AttrPrompt_vit-b_512x512.py checkpoints/AttrPrompt20k.pth
+python test.py configs/vhsc/vpt_seg_attr20_bg_AttrPrompt_vit-b_512x512.py checkpoints/AttrPromptCheckpoint.pth
 ```
 
 ## Acknowledgement
