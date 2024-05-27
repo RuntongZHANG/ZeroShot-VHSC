@@ -36,6 +36,23 @@ python train.py configs/vhsc/vpt_seg_attr20_bg_AttrPrompt_vit-b_512x512.py
 python test.py configs/vhsc/vpt_seg_attr20_bg_AttrPrompt_vit-b_512x512.py checkpoints/AttrPromptCheckpoint.pth
 ```
 
+## Citation
+If you find our code or data helpful, please cite our paper:
+```bibtex
+@article{ZHANG2024127829,
+  title = {Advancing zero-shot semantic segmentation through attribute correlations},
+  journal = {Neurocomputing},
+  volume = {594},
+  pages = {127829},
+  year = {2024},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2024.127829},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231224006003},
+  author = {Runtong Zhang and Fanman Meng and Shuai Chen and Qingbo Wu and Linfeng Xu and Hongliang Li},
+  keywords = {Zero-shot learning, Image segmentation, Attribute learning}
+}
+```
+
 ## Acknowledgement
 Our implementation is mainly based on following repositories. Thanks for their authors.
 * [CLIP](https://github.com/openai/CLIP)
