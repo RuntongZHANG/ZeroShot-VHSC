@@ -16,12 +16,16 @@ We advance the zero-shot semantic segmentation through attribute correlations. S
 
 
 ## Dataset
-Visual Hierarchical Semantic Classes (VHSC) benchmark.
-![Dataset](figures/dataset.png)
-Link: (Coming soon)
+Visual Hierarchical Semantic Classes (VHSC) benchmark. <br />
+![Dataset](figures/dataset.png) <br />
+Download Link: [OneDrive](https://1drv.ms/u/s!AlKD6m_5g-8SbUBIUBurgoRu9eI?e=qYCZ9Z) <br />
+The validation data is from the MS COCO dataset. Please download it from [here](https://cocodataset.org/#download) and put the "JPEGImages" folder in path: VHSC/novel/JPEGImages <br />
 
 ## Checkpoints
-Link: (Coming soon)
+The pretrained ViT model: [OneDrive](https://1drv.ms/u/s!AlKD6m_5g-8SdEaPmXqo82yAqjU?e=hG5CXD) <br />
+(Please put it in the "pretrained" folder) <br />
+Our trained model: [OneDrive](https://1drv.ms/u/s!AlKD6m_5g-8SbpkEre1stRxWyvM?e=MqBkYQ) <br />
+(Please put it in the "checkpoints" folder) <br />
 
 ## Training
 ```
